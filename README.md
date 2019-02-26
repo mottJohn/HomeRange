@@ -12,7 +12,7 @@ In a nutshell, the Kernel Density Estimate is computed by following steps:
 2. Assign the distribution to each points (With the integral of such distribution equals 1)
 3. Sum all the distributions and divide by the total number of points (such that the integral of the sum equals 1)
 
-To get the Utilization Distribution, further normalised the distributions by dividing it by the maximum density, i,e, $z = \frac{z}{z_max} * 100$. The 95% home range is therefore represented by $z \ge 5$. Similarly, the 50%, 25% home range is represented by $z \ge 50$, and $z \ge 75%$ respectively.
+To get the Utilization Distribution, further normalised the distributions by dividing it by the maximum density, i,e, z = z/z_max * 100. The 95% home range is therefore represented by z >= 5. Similarly, the 50%, 25% home range is represented by z >= 50 , and z >= 75 respectively.
 
 # Tools for Conducting Kernel Density Estimate
 ## Opensource
@@ -30,4 +30,3 @@ Installation is a bit tricky. Please follow [this instructions](https://gitlab.c
 ## License Software
 [Geospatial Modelling Environment](http://www.spatialecology.com/gme/), and ArcMap (The tool is opensource, but it is such a pretty that ArcMap should be used together)
 
-![equation](http://bit.ly/2BTdB66)
