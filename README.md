@@ -16,5 +16,16 @@ To get the Utilization Distribution, further normalised the distributions by div
 
 # Tools for Conducting Kernel Density Estimate
 ## Opensource
+[Animove](https://www.faunalia.eu/en/animove.html#animove-for-qgis), and QGIS version 2.X (Version 3 will not work)
+Installation is a bit tricky.Please follow [this instructions](https://gitlab.com/faunalia/sextante_animove/blob/master/doc/installation_win.rst).
+
+### How to use animove to conduct Home Range Analysis
+1. Please watch this [YouTube video first](https://www.youtube.com/watch?v=98ORgGX8vSM).
+2. The output files are polyline (contours), and raster (heatmap). The contours are actually generated from the raster.
+3. The value of raster is the normalized density ranges from 0 to 100.
+4. The contour line is incremented by 10. The inner contour represents the 10% home range. The outer contour represents the 90% home range.
+5. Change the symbols of the raster layer to display the home range of 25%, 50%, and 95%
 
 ## License Software
+[Geospatial Modelling Environment](http://www.spatialecology.com/gme/), and ArcMap (The tool is opensource, but it is such a pretty that ArcMap should be used together)
+
