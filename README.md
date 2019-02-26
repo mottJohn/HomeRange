@@ -1,4 +1,4 @@
-# What is Home Rrange Analysis
+# What is Home Range Analysis
 A home range is the area in which an animal lives and moves on a periodic basis. It is related to the concept of an animal's territory which is the area that is actively defended. 
 
 There are a few methods for estimating home range, such as [Maxmium Convex Polgyon (MCP)](https://en.wikipedia.org/wiki/Convex_polygon), and [Kernel Density Estimate](https://en.wikipedia.org/wiki/Kernel_density_estimation).
