@@ -16,8 +16,9 @@ To get the Utilization Distribution, further normalised the distributions by div
 
 # Tools for Conducting Kernel Density Estimate
 ## Opensource
-[Animove](https://www.faunalia.eu/en/animove.html#animove-for-qgis), and QGIS version 2.X (Version 3 will not work)
-Installation is a bit tricky.Please follow [this instructions](https://gitlab.com/faunalia/sextante_animove/blob/master/doc/installation_win.rst).
+[Animove](https://www.faunalia.eu/en/animove.html#animove-for-qgis), and QGIS version 2.X (Version 3 will not work).
+
+Installation is a bit tricky. Please follow [this instructions](https://gitlab.com/faunalia/sextante_animove/blob/master/doc/installation_win.rst).
 
 ### How to use animove to conduct Home Range Analysis
 1. Please watch this [YouTube video first](https://www.youtube.com/watch?v=98ORgGX8vSM).
