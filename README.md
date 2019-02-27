@@ -22,6 +22,8 @@ Installation is a bit tricky. Please follow [this instructions](https://gitlab.c
 
 And also install this [dependency](https://umar-yusuf.blogspot.com/2016/07/How-to-Install-Third-party-Python-Modules-in-QGIS-Windows.html).
 
+Also, upgrade numpy by  pip install numpy --user  --upgrade --ignore-install
+
 ### How to use animove to conduct Home Range Analysis
 1. Please watch this [YouTube video first](https://www.youtube.com/watch?v=98ORgGX8vSM).
 2. The output files are polyline (contours), and raster (heatmap). The contours are actually generated from the raster.
